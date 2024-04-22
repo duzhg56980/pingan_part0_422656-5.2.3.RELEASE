@@ -1,0 +1,7 @@
+import org.springframework.web.servlet.function.DefaultServerRequest;
+public class FunctionUse1192 {
+public void funcUse() {
+DefaultServerRequest defaultserverrequest = new DefaultServerRequest();
+defaultserverrequest.session();
+}
+}

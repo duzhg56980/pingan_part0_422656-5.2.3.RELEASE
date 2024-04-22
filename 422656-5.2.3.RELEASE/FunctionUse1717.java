@@ -1,0 +1,7 @@
+import org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver;
+public class FunctionUse1717 {
+public void funcUse() {
+AbstractMessageConverterMethodArgumentResolver abstractmessageconvertermethodargumentresolver = new AbstractMessageConverterMethodArgumentResolver();
+abstractmessageconvertermethodargumentresolver.getAllSupportedMediaTypes(null);
+}
+}

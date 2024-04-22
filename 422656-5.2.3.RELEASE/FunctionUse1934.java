@@ -1,0 +1,6 @@
+import org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMethodMappingNamingStrategy;
+public class FunctionUse1934 {
+public void funcUse() {
+RequestMappingInfoHandlerMethodMappingNamingStrategy requestmappinginfohandlermethodmappingnamingstrategy = new RequestMappingInfoHandlerMethodMappingNamingStrategy();
+}
+}

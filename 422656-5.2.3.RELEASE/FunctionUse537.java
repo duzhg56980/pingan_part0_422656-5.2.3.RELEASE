@@ -1,0 +1,7 @@
+import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+public class FunctionUse537 {
+public void funcUse() {
+AbstractAnnotationConfigDispatcherServletInitializer abstractannotationconfigdispatcherservletinitializer = new AbstractAnnotationConfigDispatcherServletInitializer();
+abstractannotationconfigdispatcherservletinitializer.getServletConfigClasses();
+}
+}
